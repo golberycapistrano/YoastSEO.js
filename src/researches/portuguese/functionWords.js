@@ -9,7 +9,7 @@ let transitionWords = require( "./transitionWords.js" )().singleWords;
 let articles = [ "o", "a", "os", "as", "um", "uns", "uma", "umas" ];
 
 // "um" is already included in the articles.
-let cardinalNumerals = [ "uma", "duas", "dois", "três", "cuatro", "cinco", "seis", "sete", "oito", "nove", "dez", "onze", "doze",
+let cardinalNumerals = [ "uma", "duas", "dois", "três", "quatro", "cinco", "seis", "sete", "oito", "nove", "dez", "onze", "doze",
 	"treze", "quatorze", "catorze", "quinze", "dezesseis", "dezessete", "dezasseis", "dezassete", "dezoito", "dezenove", "dezanove",
 	"vinte", "cem", "cento", "mil", "milhão", "milhões", "bilhão", "bilhões" ];
 
